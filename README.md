@@ -15,6 +15,7 @@
 [<img align="left" alt="nadahasnim | Mail" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][mail]
 
 <br />
+<br />
 
 ## 🛠 Skills
 - HTML, CSS (Bootstrap, Tailwind)
