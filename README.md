@@ -16,22 +16,15 @@
 
 <br />
 
-## :trophy: My Github Stats:
+## 🛠 Skills
+- HTML, CSS (Bootstrap, Tailwind)
+- Javascript, Typescript (node.js, react.js, next.js, express.js, jquery)
+- PHP (Codeigniter, Laravel)
+- Java (Android SDK)
+- Flutter (Android, IOS)
+- Database (MySQL, MongoDB)
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=nadahasnim&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nadahasnim&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nadahasnim&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=nadahasnim&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nadahasnim&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=nadahasnim&theme=tokyonight" />
-</a>
-</div>
-
-
+<br />
 
 [website]: https://nadahasnim.github.io
 [linkedin]: https://www.linkedin.com/in/nadahasnim/
