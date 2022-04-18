@@ -30,3 +30,5 @@
 [website]: https://nadahasnim.github.io
 [linkedin]: https://www.linkedin.com/in/nadahasnim/
 [mail]: mailto:nadasthing@gmail.com
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadahasnim&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
