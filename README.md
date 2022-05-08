@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=nadahasnim.nadahasnim) [![Github](https://img.shields.io/github/followers/nadahasnim?label=Followers&logo=Github)](https://github.com/nadahasnim)
 
 
-## 🎓 I'm an Inormation Technology graduate from the State Polytechnic of Jember
+## 🎓 I'm an Information Technology graduate from the State Polytechnic of Jember
 
 - 🔭 UI/UX, Web Development, Front-End Web Dev, Multiplatform App Development, Android App Development.
 - ⚡ I love to learn new things.
