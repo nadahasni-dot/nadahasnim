@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Freelance Web & Mobile App Developer
 ------------------------------------
 
-I've been freelancing for more than 2 years and working as Flutter Developer for 1 year. I'm highly interested in web & mobile app development. Currently sharpening my skills on Mobile Development fields.
+I've been working as a Software Developer for more than 2 years and working as Flutter Developer for 1 year. I'm highly interested in web & mobile app development. Currently sharpening my skills on Backend Microservices Development fields.
 
 * 🌍  I'm based in East Java, Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://nadahasnim.github.io)
