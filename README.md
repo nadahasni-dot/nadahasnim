@@ -9,9 +9,9 @@ I've been freelancing for more than 2 years and working as Flutter Developer for
 * 🌍  I'm based in East Java, Indonesia
 * 🖥️  See my portfolio at [My Portfolio](http://nadahasnim.github.io)
 * ✉️  You can contact me at [nadasthing@gmail.com](mailto:nadasthing@gmail.com)
-* 🚀  I'm currently working on [Smart Digital Assistant](http://sda.balgrowtoshare.com)
-* 🧠  I'm learning Intermediate Android Development (Kotlin)
-* 🤝  I'm open to collaborating on Frontend & Flutter Projects
+* 🚀  I'm currently working on [SpacetoonGo](https://spacetoongo.com)
+* 🧠  I'm currently learning Microservices, Docker, Kubernetes
+* 🤝  I'm open to collaborating on Fullstack Web or Mobile Projects
 
 ### Skills
 
