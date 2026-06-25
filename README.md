@@ -4,14 +4,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Fullstack Software Engineer
 ------------------------------------
 
-I've been working as a Software Developer for more than 3 years. I'm highly interested in web & mobile app/system development. Currently sharpening my skills on Backend Development fields.
+I've been working as a Software Developer for more than 4 years. I'm highly interested in web & mobile app & AI development. Currently sharpening my skills on AI Development fields.
 
 * 🌍  I'm based in East Java, Indonesia
 * 🖥️  See my portfolio at [My Portfolio](https://nadahasnim.vercel.app)
 * ✉️  You can contact me at [nadasthing@gmail.com](mailto:nadasthing@gmail.com)
 * 🚀  I'm currently working fulltime as a Fullstack Developer
-* 🧠  I'm currently learning Fullstack Web Development, Microservices, Docker, Kubernetes
-* 🤝  I'm open to collaborating on Fullstack Web or Mobile Projects
+* 🧠  I'm currently learning AI Agent development
+* 🤝  I'm open to collaborating on Fullstack Web, Mobile, or AI Projects
 
 ### Skills
 
